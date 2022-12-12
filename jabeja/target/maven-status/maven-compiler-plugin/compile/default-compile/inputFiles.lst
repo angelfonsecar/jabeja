@@ -1,0 +1,10 @@
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/io/FileIO.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/config/NodeSelectionPolicy.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/rand/RandNoGenerator.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/config/GraphInitColorPolicy.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/Main.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/io/GraphReader.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/Node.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/io/CLI.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/config/Config.java
+/media/sf_Shared/jabeja/src/main/java/se/kth/jabeja/Jabeja.java
